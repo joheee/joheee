@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Software Laboratory Center at BINUS University**
 
-- 🌱 I’m currently learning **Docker and Kubernetes**
+- 🌱 I’m currently learning **Flutter, Docker, and Kubernetes**
 
 - 👯 I’m looking to collaborate on **Comp Eng borroIng Room**
 
