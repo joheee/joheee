@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter, Docker, and Kubernetes**
 
-- 👯 I’m looking to collaborate on **Comp Eng borroIng Room**
+- 👯 I’m looking to collaborate on **Comp Eng Borrowing Room**
 
 - 📫 How to reach me **johevinblesstowi07@gmail.com**
 
