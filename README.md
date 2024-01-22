@@ -1,4 +1,4 @@
-[![MasterHead](https://bit.ly/lambda-banner-github)](https://johedotcom.vercel.app/)
+
 
 <h1 align="center">Hola 👨‍💻!! Thank you for visiting my profile!!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joheee&label=Profile%20views&color=0e75b6&style=flat" alt="joheee" /> </p>
