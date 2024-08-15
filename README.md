@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, Nest JS, Jenkins, and Terraform**
 
-- 👯 I’m looking to collaborate on **Comp Eng Borrowing Room**
+- 👯 I’m looking to collaborate on **ecos-developer**
 
 - 📫 How to reach me **johevinblesstowi07@gmail.com**
 
