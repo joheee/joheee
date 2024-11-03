@@ -4,11 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joheee&label=Profile%20views&color=0e75b6&style=flat" alt="joheee" /> </p>
 
 
-- 🔭 I’m currently working on **Software Laboratory Center at BINUS University**
+- 🔭 I’m currently working as **Junior DevOps Engineer at Paxel Indonesia**
 
 - 🌱 I’m currently learning **Kubernetes, Nest JS, Jenkins, and Terraform**
-
-- 👯 I’m looking to collaborate on **ecos-developer**
 
 - 📫 How to reach me **johevinblesstowi07@gmail.com**
 
