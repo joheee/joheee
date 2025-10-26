@@ -5,9 +5,10 @@
 <p>🔭 Currently working on <b>Virtue Digital Indonesia</b></p>
 <p>📫 Connect with me through <b>johevinblesstowi07@gmail.com</b></p>
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joheee&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joheee&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joheee&" alt="joheee" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joheee&show_icons=true&locale=en" alt="joheee" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joheee&show_icons=true&locale=en&layout=compact" alt="joheee" /></p>
 
 <p><img src="https://komarev.com/ghpvc/?username=joheee&label=Profile%20views&color=0e75b6&style=flat" alt="joheee" /></p>
 <h3>Connect with me:</h3>
