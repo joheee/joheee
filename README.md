@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">Hi, I'm joheee 👨‍💻</h1>
+<h1 align="center">Hi, I'm Joheee 👨‍💻</h1>
 
 <p>🔭 Currently working on <b>Virtue Digital Indonesia</b></p>
 <p>📫 Connect with me through <b>johevinblesstowi07@gmail.com</b></p>
