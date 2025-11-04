@@ -16,7 +16,7 @@
 <p>
   <a href="https://linkedin.com/in/johevin-blesstowi-17b9191aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johevin-blesstowi-17b9191aa/" height="30" width="40" /></a>
   <a href="https://instagram.com/johedotcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="johedotcom" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UCGRqoIAvULwRd1FxPrIzL0A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@johevinblesstowi2073" height="30" width="40" /></a>
+  <!-- <a href="https://www.youtube.com/channel/UCGRqoIAvULwRd1FxPrIzL0A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@johevinblesstowi2073" height="30" width="40" /></a> -->
   <a href="https://www.hackerrank.com/longlearner23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="longlearner23" height="30" width="40" /></a>
 </p>
 
