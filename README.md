@@ -5,7 +5,7 @@
 <p>🔭 Currently working on <b>Virtue Digital Indonesia</b></p>
 <p>📫 Connect with me through <b>johevinblesstowi07@gmail.com</b></p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joheee&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="joheee's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joheee&layout=compact&theme=vue&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=joheee&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="joheee's github statsistic" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joheee&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joheee&theme=vue" alt="joheee" /></a>
