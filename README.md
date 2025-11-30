@@ -12,7 +12,7 @@
   
   <p><img src="https://komarev.com/ghpvc/?username=joheee&label=Profile%20views&color=0e75b6&style=flat" alt="joheee's commit streaks" /></p>
   
-  <h3>Connect with me through</h3>
+  <h3>Connect with me</h3>
   
   <p>
     <a href="https://linkedin.com/in/johevin-blesstowi-17b9191aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johevin-blesstowi-17b9191aa/" height="30" width="40" /></a>
