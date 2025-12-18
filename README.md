@@ -11,7 +11,6 @@
 
   
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joheee&theme=vue" alt="joheee's streak stats" /></a>
-  
   <p><img src="https://komarev.com/ghpvc/?username=joheee&label=Profile%20views&color=0e75b6&style=flat" alt="joheee's commit streaks" /></p>
   
   <h3>Connect with me</h3>
