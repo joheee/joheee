@@ -2,7 +2,9 @@
 
 <div align="center">
 
+  <!-- 
   <p>🔭 Currently working as <b>DevOps Freelance</b></p>
+  -->
   <p>📫 Contact me at <b>johevinblesstowi07@gmail.com</b></p>
 
 
