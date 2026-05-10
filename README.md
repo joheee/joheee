@@ -14,8 +14,7 @@
   
   <p>
     <a href="https://linkedin.com/in/johevin-blesstowi-17b9191aa/" target="blank">Linkedin</a> . 
-    <a href="https://instagram.com/johedotcom" target="blank">Instagram</a> .
-    <a href="mailto:johevinblesstowi07@gmail.com" target="blank">Email</a>
+    <a href="https://instagram.com/johedotcom" target="blank">Instagram</a>
   </p>
 
 </div>
