@@ -1,8 +1,8 @@
 # Johevin Blesstowi
 ### ☁️ Cloud & DevOps Engineer
-> Currently focused on architecting scalable cloud infrastructure through code.
+> Focused on architecting scalable cloud infrastructure through code.
 
-### 🚀 Currently Learning
+### 🚀 Next Milestone(s)
 - Preparing for the HashiCorp Certified: Terraform Associate (004)
 
 ### 🛠️ Technical Focus
