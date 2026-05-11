@@ -1,4 +1,3 @@
-<div align="center">
 
 # Johevin Blesstowi
 
@@ -11,10 +10,5 @@
   <p><img src="https://komarev.com/ghpvc/?username=joheee&label=Profile%20views&color=0e75b6&style=flat" alt="joheee's commit streaks" /></p>
   
 ## Connect with me
-  
-  <p>
-    <a href="https://linkedin.com/in/johevin-blesstowi-17b9191aa/" target="blank">Linkedin</a> . 
-    <a href="https://instagram.com/johedotcom" target="blank">Instagram</a>
-  </p>
-
-</div>
+- [Linkedin](https://linkedin.com/in/johevin-blesstowi-17b9191aa/)
+- [Instagram](https://instagram.com/johedotcom)
