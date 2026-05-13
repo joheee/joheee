@@ -12,6 +12,6 @@
 - **Cloud Platforms:** AWS & GCP
 - **Automation:** CI/CD Pipelines
 
-### 🤝 Connect
+### 🤝 Connect with me
 - [LinkedIn](https://linkedin.com/in/johevin-blesstowi-17b9191aa/)
 - [Instagram](https://instagram.com/johedotcom)
