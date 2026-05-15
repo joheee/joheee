@@ -3,7 +3,7 @@
 - Focused on architecting scalable cloud infrastructure through code
 
 ### 🚀 Next Milestone(s)
-- Preparing for the HashiCorp Certified: Terraform Associate (004)
+- Preparing for the HashiCorp Certified Terraform Associate (004)
 - Create bunch of terraform portfolio
 
 ### 🛠️ Technical Focus
