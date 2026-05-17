@@ -4,6 +4,7 @@
 
 ### 🚀 Next Milestone(s)
 - Preparing for the HashiCorp Certified Terraform Associate (004)
+- Preparing for the AWS Cloud Practitioner
 - Create bunch of terraform portfolio
 
 ### 🛠️ Technical Focus
