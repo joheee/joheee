@@ -4,8 +4,7 @@
 
 ### 🚀 Next Milestone(s)
 - Preparing for the HashiCorp Certified Terraform Associate (004)
-- Preparing for the AWS Cloud Practitioner
-- Create bunch of terraform portfolio
+- Preparing for the AWS Solution Architect Associate (SAA)
 
 ### 🛠️ Technical Focus
 - **Orchestration:** Docker & Kubernetes
