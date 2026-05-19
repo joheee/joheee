@@ -3,8 +3,8 @@
 - Focused on architecting scalable cloud infrastructure through code
 
 ### 🚀 Next Milestone(s)
-- Preparing for the HashiCorp Certified Terraform Associate (004)
-- Preparing for the AWS Solution Architect Associate (SAA)
+- HashiCorp Certified Terraform Associate (004)
+- AWS Solution Architect Associate (SAA)
 
 ### 🛠️ Technical Focus
 - **Orchestration:** Docker & Kubernetes
