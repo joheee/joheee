@@ -1,5 +1,5 @@
 # Johevin Blesstowi
-### ☁️ Cloud & DevOps Engineer
+### ☁️ DevOps Engineer
 - Focused on architecting scalable cloud infrastructure through code
 
 ### 🚀 Next Milestone(s)
