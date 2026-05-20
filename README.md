@@ -2,7 +2,7 @@
 ### ☁️ DevOps Engineer
 - Focused on architecting scalable cloud infrastructure through code
 
-### 🚀 Next Milestone(s)
+### 🚀 Next Milestone (s)
 - HashiCorp Certified Terraform Associate (004)
 - AWS Solution Architect Associate (SAA)
 
