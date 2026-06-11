@@ -1,5 +1,5 @@
 # Johevin Blesstowi
-Cloud Architect & DevOps Engineer with 3+ years of experience designing resilient, automated infrastructure built for high availability and peace of mind.
+Cloud Architect & DevOps Engineer with 3+ years of experience designing resilient, automated infrastructure built for high availability and peace of mind
 
 ## ☁️ DevOps Engineer
 - Focused on architecting scalable cloud infrastructure through code
