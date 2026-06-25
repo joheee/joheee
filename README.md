@@ -1,9 +1,6 @@
 # Johevin Blesstowi
 Cloud Architect & DevOps Engineer with 3+ years of experience designing resilient, automated infrastructure built for high availability and peace of mind
 
-## ☁️ DevOps Engineer
-- Focused on architecting scalable cloud infrastructure through code
-
 ## 🚀 Next Milestone (s)
 - HashiCorp Certified Terraform Associate (004)
 - AWS Solution Architect Associate (SAA)
