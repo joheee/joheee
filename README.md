@@ -9,7 +9,6 @@ Cloud Architect & DevOps Engineer with 3+ years of experience designing resilien
 - **Orchestration:** Docker & Kubernetes
 - **Infrastructure as Code:** Terraform
 - **Cloud Platforms:** AWS & GCP
-- **Automation:** CI/CD Pipelines
 
 ## 🤝 Connect with me
 - [LinkedIn](https://linkedin.com/in/johevin-blesstowi-17b9191aa/)
