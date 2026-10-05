@@ -4,6 +4,7 @@ Cloud Architect & DevOps Engineer with 3+ years of experience designing resilien
 ## 🚀 Next Milestone (s)
 - HashiCorp Certified Terraform Associate (004)
 - AWS Solution Architect Associate (SAA)
+- Build my personal website at https://www.johe.my.id
 
 ## 🛠️ Technical Focus
 - **Orchestration:** Docker & Kubernetes
