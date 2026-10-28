@@ -12,5 +12,6 @@ Cloud Architect & DevOps Engineer with 3+ years of experience designing resilien
 - **Cloud Platforms:** AWS & GCP
 
 ## 🤝 Connect with me
+- [Portfolio](https://johe.my.id)
 - [LinkedIn](https://linkedin.com/in/johevin-blesstowi-17b9191aa/)
 - [Instagram](https://instagram.com/johedotcom)
